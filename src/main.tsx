@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom/client'
 //样式初始化一半放在最前
 import "reset-css"
 //UI框架的样式
+
+//全局样式
 import "./assets/styles/global.scss"
 //组件的样式
 
